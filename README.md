@@ -18,7 +18,7 @@ java8+MySQL+idea+springboot+mybatis
 1. 访问 http://192.168.1.9:8080/alipay/products  -- - 注意 (http://192.168.1.9:8080/为自己的IP可以使用本机)
    可以打成war包或者jar包
 2. 视图用的是jsp
-
+3. 感兴趣还可以试试微信支付
 
 #### 参与贡献
 
