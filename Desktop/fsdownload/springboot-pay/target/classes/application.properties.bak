@@ -1,0 +1,37 @@
+#配置spring mvc的视图前缀
+spring.mvc.view.prefix=/WEB-INF/jsp/
+#配置spring mvc的视图后缀
+spring.mvc.view.suffix=.jsp
+#配置web服务器的访问端口
+server.port=8080
+#配置web服务器的语言编码server.tomcat.uri-encoding=utf-8
+server.tomcat.uri-encoding=utf-8
+#定义数据库连接池
+spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
+#?useUnicode=true&amp;characterEncoding=utf-8&amp;userSSL=false&amp;serverTimezone=GMT%2B8
+spring.datasource.url=jdbc:mysql://localhost:3306/springboot?useUnicode=true&characterEncoding=utf-8&userSSL=false&serverTimezone=GMT%2B8
+spring.datasource.username=root
+spring.datasource.password=admin
+
+#mybatis配置项
+#定义所有的mapper.xml文件路径
+#mybatis.mapper-locations=classpath:mapper/*.xml
+
+#显示sql
+mybatis.configuration.log-impl=org.apache.ibatis.logging.stdout.StdOutImpl
+#如果这里的value为false(默认值)，mybatis在没有查询到内容的时候返回null
+mybatis.configuration.return-instance-for-empty-row=true
+
+logging.level.org.springframework.web=ERROR
+logging.level.com.yiibai=DEBUG
+
+# Logging pattern for the console
+logging.pattern.console= "%d{yyyy-MM-dd HH:mm:ss} - %msg%n"
+
+# Logging pattern for file
+logging.pattern.file= "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
+
+logging.file=D:/Software/IntelliJ IDEA/WorkSpaces/OpenSource/Examples/springboot-pays/src/main/resources/mylog.log
+mybatis.mapper-locations=classpath:com/pandas/mapper/*.xml
+mybatis.type-aliases-package=com.pandas.pojo
+

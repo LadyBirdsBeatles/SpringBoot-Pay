@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: xiaochen
+Build-Jdk: 1.8.0_221
+Implementation-Title: springboot-pay Maven Webapp
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: org.example
+Main-Class: ${start-class}
+

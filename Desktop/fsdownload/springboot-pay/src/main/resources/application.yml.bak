@@ -1,0 +1,36 @@
+#配置spring mvc的视图
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  #定义数据库连接池
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/alipay?useUnicode=true&characterEncoding=utf-8&userSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: #c+Admin.27
+    druid:
+      connection-properties:  druid.stat.mergeSql=true
+#配置spring mvc的端口字符集
+server:
+  port: 8080
+  tomcat:
+    uri-encoding: utf-8
+
+#mybatis配置项
+#定义所有的mapper.xml文件路径druid.stat.mergeSql=true  connection-properties:
+mybatis:
+  #mapper-locations: classpath:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    return-instance-for-empty-row: true
+  ## 该配置节点为独立的节点，这个配置放在spring的节点下，导致配置无法被识别
+  type-aliases-package: com.xiaochen.beatles.pojo  # 注意：对应实体类的路径
+
+  #加入系统日志记录
+logging:
+  level:
+    learning: trace
+    root: warn
+

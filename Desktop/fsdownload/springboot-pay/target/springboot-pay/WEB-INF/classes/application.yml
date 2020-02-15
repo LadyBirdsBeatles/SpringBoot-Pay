@@ -1,0 +1,25 @@
+#配置spring mvc的视图
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  #定义数据库连接池
+  datasource:
+    driverClassName: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/springboot?useUnicode=true&characterEncoding=utf-8&userSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: #c+Admin.27
+#配置spring mvc的端口字符集
+server:
+  port: 8080
+  tomcat:
+    uri-encoding: utf-8
+#mybatis配置项
+#定义所有的mapper.xml文件路径
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    return-instance-for-empty-row: true
+   #加入系统日志记录

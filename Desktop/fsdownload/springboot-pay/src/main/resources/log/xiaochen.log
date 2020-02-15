@@ -1,0 +1,45 @@
+00:14:40.944 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:14:40.949 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:14:40.949 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:14:42.801 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 1.965 seconds (JVM running for 21471.316)
+00:14:47.827 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:14:47.842 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:14:47.842 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:14:48.399 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.6 seconds (JVM running for 21476.915)
+00:15:40.974 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:15:40.974 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:15:40.974 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:15:41.530 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.577 seconds (JVM running for 21530.045)
+00:16:13.364 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:16:13.364 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:16:13.365 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:16:14.542 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 1.199 seconds (JVM running for 21563.058)
+00:16:15.181 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 8324 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:16:15.214 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:16:15.214 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:18:03.428 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:18:03.428 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:18:03.428 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:18:04.186 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 4736 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:18:04.188 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:18:04.189 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:18:04.701 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 1.294 seconds (JVM running for 21673.216)
+00:18:21.249 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:18:21.249 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:18:21.249 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:18:21.924 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.698 seconds (JVM running for 21690.439)
+00:18:22.480 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 6032 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:18:22.483 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:18:22.483 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:20:11.709 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3652 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:20:11.709 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:20:11.709 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:20:12.468 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 9200 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:20:12.470 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:20:12.470 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:20:12.899 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 1.212 seconds (JVM running for 21801.414)
+00:22:04.209 [http-nio-8080-exec-5] INFO  com.xiaochen.beatles.controller.ShaXiangController - infoMsg:--- 支付宝请求交易开始
+00:36:13.273 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 5140 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+00:36:13.275 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+00:36:13.275 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+00:36:15.513 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.622 seconds (JVM running for 4.38)

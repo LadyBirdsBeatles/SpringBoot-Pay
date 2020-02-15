@@ -1,0 +1,199 @@
+14:56:46.513 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 5264 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+14:56:46.515 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+14:56:46.516 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+14:56:49.039 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 3.036 seconds (JVM running for 4.362)
+16:03:09.768 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 8860 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:03:09.771 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:03:09.772 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:03:12.122 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.807 seconds (JVM running for 4.037)
+16:08:00.642 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3588 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:08:00.644 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:08:00.644 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:08:03.141 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.934 seconds (JVM running for 4.166)
+16:19:37.597 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 10140 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:19:37.599 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:19:37.601 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:19:39.904 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.92 seconds (JVM running for 4.209)
+16:23:40.823 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 9852 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:23:40.824 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:23:40.824 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:23:43.138 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.837 seconds (JVM running for 4.162)
+16:32:07.636 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 9852 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:32:07.636 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:32:07.637 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:32:08.450 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.846 seconds (JVM running for 509.475)
+16:32:11.439 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 8628 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:32:11.442 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:32:11.442 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:32:13.890 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.97 seconds (JVM running for 4.526)
+16:34:39.150 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 5740 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:34:39.152 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:34:39.153 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:34:41.473 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.892 seconds (JVM running for 4.249)
+16:42:53.036 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7532 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+16:42:53.039 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+16:42:53.040 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+16:42:55.575 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 3.017 seconds (JVM running for 4.241)
+16:43:59.427 [http-nio-8080-exec-1] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+17:36:31.203 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7532 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:36:31.203 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:36:31.203 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+17:36:36.608 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Starting UtilsTest on FX-PRO with PID 2256 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:36:36.609 [main] DEBUG com.xiaochen.beatles.test.UtilsTest - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:36:36.609 [main] INFO  com.xiaochen.beatles.test.UtilsTest - No active profile set, falling back to default profiles: default
+17:36:39.563 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Started UtilsTest in 3.404 seconds (JVM running for 5.176)
+17:45:47.853 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7532 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:45:47.853 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:45:47.854 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+17:45:48.772 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.944 seconds (JVM running for 3777.437)
+17:45:50.511 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Starting UtilsTest on FX-PRO with PID 6972 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:45:50.512 [main] DEBUG com.xiaochen.beatles.test.UtilsTest - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:45:50.512 [main] INFO  com.xiaochen.beatles.test.UtilsTest - No active profile set, falling back to default profiles: default
+17:45:53.658 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Started UtilsTest in 3.578 seconds (JVM running for 4.746)
+17:48:56.880 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7532 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:48:56.880 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:48:56.880 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+17:48:57.792 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.958 seconds (JVM running for 3966.458)
+17:48:58.831 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Starting UtilsTest on FX-PRO with PID 1308 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:48:58.831 [main] DEBUG com.xiaochen.beatles.test.UtilsTest - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:48:58.832 [main] INFO  com.xiaochen.beatles.test.UtilsTest - No active profile set, falling back to default profiles: default
+17:49:01.792 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Started UtilsTest in 3.443 seconds (JVM running for 4.731)
+17:51:53.332 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7532 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:51:53.332 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:51:53.332 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+17:51:54.240 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.931 seconds (JVM running for 4142.905)
+17:51:56.419 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Starting UtilsTest on FX-PRO with PID 480 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+17:51:56.419 [main] DEBUG com.xiaochen.beatles.test.UtilsTest - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+17:51:56.420 [main] INFO  com.xiaochen.beatles.test.UtilsTest - No active profile set, falling back to default profiles: default
+17:51:59.540 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Started UtilsTest in 3.651 seconds (JVM running for 4.881)
+18:02:25.121 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7532 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+18:02:25.122 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+18:02:25.122 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+18:02:25.755 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 0.659 seconds (JVM running for 4774.421)
+18:02:28.135 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Starting UtilsTest on FX-PRO with PID 9688 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+18:02:28.136 [main] DEBUG com.xiaochen.beatles.test.UtilsTest - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+18:02:28.136 [main] INFO  com.xiaochen.beatles.test.UtilsTest - No active profile set, falling back to default profiles: default
+18:02:31.050 [main] INFO  com.xiaochen.beatles.test.UtilsTest - Started UtilsTest in 3.459 seconds (JVM running for 4.639)
+18:04:22.168 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7872 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+18:04:22.171 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+18:04:22.172 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+18:04:24.807 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 3.034 seconds (JVM running for 4.214)
+18:05:47.098 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:08:32.519 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:08:33.874 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:08:33.874 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 4329645
+18:08:33.936 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000166614
+18:08:33.936 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 10.00
+18:08:33.936 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 热狗
+18:08:33.936 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:17:47.665 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 10184 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+18:17:47.667 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+18:17:47.667 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+18:17:50.084 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.989 seconds (JVM running for 4.206)
+18:19:33.426 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:19:33.763 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:19:33.780 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 5576669
+18:19:33.781 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000170263
+18:19:33.781 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 5000.00
+18:19:33.781 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 猪肉
+18:19:33.781 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:20:08.516 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:22:07.171 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 9564 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+18:22:07.174 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+18:22:07.174 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+18:22:09.480 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.788 seconds (JVM running for 3.97)
+18:28:00.264 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 12188 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+18:28:00.266 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+18:28:00.267 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+18:28:02.661 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.799 seconds (JVM running for 3.971)
+18:33:20.596 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:33:20.857 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:33:20.857 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 5576669
+18:33:20.858 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000170263
+18:33:20.858 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 5000.00
+18:33:20.858 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 猪肉
+18:33:20.858 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:34:02.434 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:34:03.614 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:34:03.614 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:34:03.614 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:34:03.614 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:34:03.614 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:34:03.614 [http-nio-8080-exec-10] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:38:44.754 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:38:44.774 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:38:44.774 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:38:44.774 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:38:44.774 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:38:44.774 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:38:44.774 [http-nio-8080-exec-8] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:39:56.503 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:39:56.520 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:39:56.520 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:39:56.520 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:39:56.520 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:39:56.520 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:39:56.520 [http-nio-8080-exec-2] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:40:28.168 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:40:28.176 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:40:28.177 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:40:28.177 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:40:28.177 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:40:28.177 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:40:28.177 [http-nio-8080-exec-6] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:42:25.055 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:42:25.070 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:42:25.071 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:42:25.071 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:42:25.071 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:42:25.071 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:42:25.071 [http-nio-8080-exec-9] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:43:47.544 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:43:47.561 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:43:47.561 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:43:47.562 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:43:47.562 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:43:47.562 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:43:47.562 [http-nio-8080-exec-3] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:45:49.383 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:45:49.397 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:45:49.397 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 9217899
+18:45:49.397 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000164069
+18:45:49.397 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:45:49.397 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:45:49.397 [http-nio-8080-exec-7] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+18:53:14.314 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - 支付成功, 进入同步通知接口...
+18:53:15.548 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - ********************** 支付成功(支付宝同步通知) **********************
+18:53:15.548 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - * 订单号: 2661607
+18:53:15.548 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - * 支付宝交易号: 2020021222001461471000170266
+18:53:15.548 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - * 实付金额: 50.00
+18:53:15.548 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - * 购买产品: 纸巾
+18:53:15.548 [http-nio-8080-exec-4] INFO  com.xiaochen.beatles.controller.AlipayController - ***************************************************************
+19:13:22.200 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 3040 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+19:13:22.202 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+19:13:22.202 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+19:13:24.467 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.73 seconds (JVM running for 3.972)
+19:19:04.103 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 6248 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+19:19:04.104 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+19:19:04.105 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+19:19:06.527 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.943 seconds (JVM running for 4.172)
+19:45:47.884 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 4472 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+19:45:47.885 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+19:45:47.886 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+19:45:50.220 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.763 seconds (JVM running for 3.937)
+23:11:25.737 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7100 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+23:11:25.739 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+23:11:25.740 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+23:11:28.131 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.854 seconds (JVM running for 4.118)
+23:57:01.729 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 2368 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+23:57:01.731 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+23:57:01.732 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+23:57:04.323 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 3.1 seconds (JVM running for 4.486)
+23:57:52.504 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 11912 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+23:57:52.506 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+23:57:52.506 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+23:57:54.952 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.97 seconds (JVM running for 4.151)
+23:59:10.962 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Starting PayApplicationSpringBoot on FX-PRO with PID 7504 (started by xiaochen in D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay)
+23:59:10.964 [restartedMain] DEBUG com.xiaochen.beatles.PayApplicationSpringBoot - Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+23:59:10.964 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - No active profile set, falling back to default profiles: default
+23:59:13.275 [restartedMain] INFO  com.xiaochen.beatles.PayApplicationSpringBoot - Started PayApplicationSpringBoot in 2.795 seconds (JVM running for 3.988)

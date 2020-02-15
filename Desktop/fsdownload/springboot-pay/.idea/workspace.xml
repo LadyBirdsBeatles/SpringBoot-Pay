@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="springboot-pay:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="276d63ae-8839-4dee-9a22-a068c3631a8c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JavaVersioning\Maven\maven\Repository" />
+        <option name="mavenHome" value="D:/JavaVersioning/Maven/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\JavaVersioning\Maven\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XT668SwMe6BA0Stf2004SyfaWQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="springboot_mybatis" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../java_Frame/SpringBoot/springboot" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay\src\main\webapp\WEB-INF\jsp" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay\src\main\resources" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot_mybatis\src\test\java" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot_mybatis\src\test\com\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay\src\main\resources" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay\src\main\webapp\statics\html" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot-pay\src\main\java\com\xiaochen\beatles\config" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot_mybatis\src\test" />
+      <recent name="D:\Software\IntelliJ IDEA\WorkSpaces\OpenSource\Examples\springboot_mybatis\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PayApplicationSpringBoot">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.Demo" />
+      <module name="springboot-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest.ChenLin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.UtilsTest" />
+      <option name="METHOD_NAME" value="ChenLin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest.alipays" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.UtilsTest" />
+      <option name="METHOD_NAME" value="alipays" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UtilsTest.getcost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xiaochen.beatles.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xiaochen.beatles.test.UtilsTest" />
+      <option name="METHOD_NAME" value="getcost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PayApplicationSpringBoot" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot-pay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xiaochen.beatles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xiaochen.beatles.PayApplicationSpringBoot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PayApplicationSpringBoot" />
+        <item itemvalue="JUnit.UtilsTest.ChenLin" />
+        <item itemvalue="JUnit.UtilsTest.getcost" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="JUnit.UtilsTest.alipays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="276d63ae-8839-4dee-9a22-a068c3631a8c" name="Default Changelist" comment="" />
+      <created>1581057558835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581057558835</updated>
+      <workItem from="1581057563353" duration="6855000" />
+      <workItem from="1581176499285" duration="297000" />
+      <workItem from="1581180556319" duration="686000" />
+      <workItem from="1581437944386" duration="257000" />
+      <workItem from="1581438604057" duration="3624000" />
+      <workItem from="1581443659330" duration="504000" />
+      <workItem from="1581446894504" duration="961000" />
+      <workItem from="1581480224663" duration="5289000" />
+      <workItem from="1581487549103" duration="25116000" />
+      <workItem from="1581567411315" duration="22274000" />
+      <workItem from="1581649724573" duration="31213000" />
+      <workItem from="1581687200128" duration="42000" />
+      <workItem from="1581687280633" duration="2271000" />
+      <workItem from="1581693113794" duration="154000" />
+      <workItem from="1581694016616" duration="240000" />
+      <workItem from="1581695977192" duration="1165000" />
+      <workItem from="1581697987220" duration="3725000" />
+      <workItem from="1581756160394" duration="652000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="74" key="#Inspections" timestamp="1581655096976">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="74" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1581655096976" />
+    <state x="222" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581487215934">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="71" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1581487215934" />
+    <state x="488" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581490688289">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="488" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1581490688289" />
+    <state x="573" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1581666409185">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1581666409185" />
+    <state x="510" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581698144264">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="510" y="198" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1581698144264" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581519984363">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834@0.0.1536.834" timestamp="1581519984363" />
+    <state x="498" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581481238112">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1581481238112" />
+    <state x="548" y="171" key="FileChooserDialogImpl" timestamp="1581756929225">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1581756929225" />
+    <state width="1491" height="417" key="GridCell.Tab.0.bottom" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state width="1491" height="417" key="GridCell.Tab.0.center" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state width="1491" height="417" key="GridCell.Tab.0.left" timestamp="1581703237028">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1581703237028" />
+    <state width="1491" height="417" key="GridCell.Tab.0.right" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state width="1491" height="417" key="GridCell.Tab.1.bottom" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state width="1491" height="417" key="GridCell.Tab.1.center" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state width="1491" height="417" key="GridCell.Tab.1.left" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state width="1491" height="417" key="GridCell.Tab.1.right" timestamp="1581703237029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="417" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1581703237029" />
+    <state x="261" y="0" key="SettingsEditor" timestamp="1581698793452">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1581698793452" />
+    <state x="368" y="94" width="800" height="646" key="find.popup" timestamp="1581686304196">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="368" y="94" width="800" height="646" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1581686304196" />
+    <state x="177" y="26" key="new project wizard" timestamp="1581482638374">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="177" y="26" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1581482638374" />
+  </component>
+</project>

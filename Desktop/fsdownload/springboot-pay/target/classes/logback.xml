@@ -1,0 +1,34 @@
+<configuration>
+
+	<appender name="INFO_FILE"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>D:/Software/IntelliJ IDEA/WorkSpaces/OpenSource/Examples/springboot-pay/src/main/resources/log/xiaochen.log</file>
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<fileNamePattern>D:/Software/IntelliJ IDEA/WorkSpaces/OpenSource/Examples/springboot-pay/src/main/resources/log/xiaochen-%d{yyyy-MM-dd}.log
+			</fileNamePattern>
+			<maxHistory>30</maxHistory>
+		</rollingPolicy>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{100} - %msg%n
+			</pattern>
+		</encoder>
+		<append>false</append>
+		<prudent>false</prudent>
+	</appender>
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %logger{100} - %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+
+	<logger name="com.xiaochen.beatles" level="DEBUG" additivity="false">
+		<appender-ref ref="INFO_FILE" />
+	</logger>
+
+	<root level="INFO">
+		<appender-ref ref="STDOUT" />
+	</root>
+
+</configuration>  

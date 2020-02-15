@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,user-scalable=yes, minimum-scale=0.4, initial-scale=0.8,target-densitydpi=low-dpi" />
+    <meta http-equiv="Cache-Control" content="no-siteapp" />
+    <link rel="stylesheet" href="../css/font.css">
+    <link rel="stylesheet" href="../css/login.css">
+    <link rel="stylesheet" href="../css/xadmin.css">
+    <script type="text/javascript" src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
+    <script src="../../lib/layui/layui.js" charset="utf-8"></script>
+    <script type="text/javascript" src="../js/xadmin.js"></script>
+    <!--[if lt IE 9]>
+    <script src="https://cdn.staticfile.org/html5shiv/r29/html5.min.js"></script>
+    <script src="https://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <title>找回密码</title>
+</head>
+<body>
+
+<div class="login layui-anim layui-anim-up">
+    <div class="message">密码找回</div>
+    <div id="darkbannerwrap"></div>
+
+    <form method="post" class="layui-form" >
+        <input name="phonenumber1"  placeholder="手机号码"  type="text" lay-verify="required" class="layui-input" >
+        <hr class="hr15">
+        <input name="phonenumber2" placeholder="再次输入手机号码"  type="text" lay-verify="required" class="layui-input" >
+        <hr class="hr15">
+        <input value="找回密码" lay-submit lay-filter="findpwd" style="width:100%;" type="submit">
+        <hr class="hr25">
+    </form>
+
+    <script>
+        $(function  () {
+            layui.use('form', function(){
+                var form = layui.form;
+                //监听提交
+                form.render();
+                form.on('submit(findpwd)', function(data){
+                    console.log(data.field);
+                    var userInfo = data.field;
+                    $.ajax({
+                        url:"/user/findpwd",
+                        type:'post',
+                        data:userInfo,
+                        dataType:"json",
+                        /* beforeSend:function () {
+                             this.layerIndex = layer.load(0, { shade: [0.5, '#393D49'] });
+                         },*/
+                        success:function(data){
+                            console.log("ajax成功后回调变量");
+                            console.log(data);
+                            if(data.returncode == -1){
+                                layer.msg(data.msg,{icon: 5});//失败的表情
+                                return;
+                            }else if(data.returncode == 1){
+                                layer.msg(data.msg, {
+                                    icon: 6,//成功的表情
+                                    time: 2000 //1秒关闭（如果不配置，默认是3秒）
+                                }, function(){
+                                    location.reload();
+                                });
+                            }
+                        },
+                        error:function (e) {
+                            console.log(e);
+                            layer.msg("服务器异常");
+                        }
+                        /*complete: function () {
+                            layer.close(this.layerIndex);
+                        },*/
+                    });
+                    return false;//阻止表单跳转
+                });
+            });
+        })
+
+    </script>
+
+
+</div>
+</body>
+</html>
